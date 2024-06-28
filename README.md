@@ -1,6 +1,24 @@
 # OpenPoker
 
+Open source poker app
+
 ## Getting Started
+
+### Setup
+
+#### Mac
+Install [Homebrew](https://brew.sh/)
+
+`brew install ruby`
+
+`brew install sdl2`
+
+
+### Install
+`bundle install`
+
+### Start
+`ruby main.rb`
 
 ## License
 
