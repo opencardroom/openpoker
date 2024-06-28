@@ -1,8 +1,8 @@
-# OpenPoker
+# ♠️ OpenPoker
 
 Open source poker app
 
-## Getting Started
+## ♦️ Getting Started
 
 ### Setup
 
@@ -20,7 +20,7 @@ Install [Homebrew](https://brew.sh/)
 ### Start
 `ruby main.rb`
 
-## License
+## ♣️ License
 
 OpenPoker is released under the [MIT License](https://opensource.org/licenses/MIT)
 
