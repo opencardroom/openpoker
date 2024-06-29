@@ -20,6 +20,11 @@ Install [Homebrew](https://brew.sh/)
 ### Start
 `ruby main.rb`
 
+## ♥️ About
+
+Copyright (c) 2024 Open Cardroom and open source contributors: 
+https://github.com/opencardroom/openpoker/graphs/contributors
+
 ## ♣️ License
 
 OpenPoker is released under the [MIT License](https://opensource.org/licenses/MIT)
