@@ -20,6 +20,15 @@ Install [Homebrew](https://brew.sh/)
 ### Start
 `ruby main.rb`
 
+## Interactive Console
+
+The .irbrc Interactive Ruby Run Commands is configured to recursively load all 
+src/ directory files
+
+`irb`
+
+`Card.new`
+
 ## ♥️ About
 
 Copyright (c) 2024 Open Cardroom and open source contributors: 
