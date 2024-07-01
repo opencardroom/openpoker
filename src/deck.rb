@@ -25,7 +25,7 @@ class Deck
 
     Card::SUITS.each do |suit|
       Card::RANKS.each do |rank|
-        @cards << Card.new(suit, rank)
+        @cards << Card.new(suit: suit, rank: rank)
       end
     end
 
