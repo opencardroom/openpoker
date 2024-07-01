@@ -13,7 +13,7 @@ class Deck
   end
 
   def draw!
-    @cards.pop
+    @cards.shift
   end
 
   def length
@@ -25,7 +25,7 @@ class Deck
 
     Card::SUITS.each do |suit|
       Card::RANKS.each do |rank|
-        @cards << Card.new(suit: suit, rank: rank)
+        @cards << Card.create(suit: suit, rank: rank)
       end
     end
 
