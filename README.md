@@ -31,7 +31,9 @@ src/ directory files
 
 ## ♥️ About
 
-Copyright (c) 2024 Open Cardroom and open source contributors: 
+- Playing card .svg graphics from [Google Code Archive vector-playing-cards SVG-cards-1.3.zip](https://code.google.com/archive/p/vector-playing-cards/downloads)
+
+- Copyright (c) 2024 Open Cardroom and open source contributors: 
 https://github.com/opencardroom/openpoker/graphs/contributors
 
 ## ♣️ License
