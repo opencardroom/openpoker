@@ -2,7 +2,7 @@
 
 Open source poker app for playing and hosting home games
 
-## Features Goals
+## ♦ Features Goals
 
 - Security:
   - Open source RNG transparency
@@ -20,9 +20,9 @@ Open source poker app for playing and hosting home games
     - Custom names, avatars, emotes
     - Chat options
 
-## Development
+## ♦ Development
 
-### ♦️ Getting Started
+### Getting Started
 
 ### Setup
 
