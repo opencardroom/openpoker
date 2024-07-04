@@ -13,6 +13,8 @@ class MainWindow < Gosu::Window
     self.caption = GAME_WINDOW_TITLE
 
     @message = Gosu::Font.new(GAME_FONT_SIZE)
+    @card_ace = Gosu::Image.new('./assets/images/cards/ace_of_clubs.svg.png')
+    @card_two = Gosu::Image.new('./assets/images/cards/2_of_clubs.svg.png')
   end
 
   def update
@@ -20,5 +22,7 @@ class MainWindow < Gosu::Window
 
   def draw
     @message.draw_text(GAME_MESSAGE, 200, 200, 1)
+    @card_ace.draw(300,300,0)
+    @card_two.draw(350,300,0)
   end
 end
