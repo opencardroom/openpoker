@@ -1,8 +1,28 @@
 # ♠️ OpenPoker
 
-Open source poker app
+Open source poker app for playing and hosting home games
 
-## ♦️ Getting Started
+## Features Goals
+
+- Security:
+  - Open source RNG transparency
+- World Player Base:
+  - Decentralized poker server node network
+  - Host invites
+  - Table queues
+- Bitcoin, Lightning, Liquid
+  - Bitcoin lightning wallets
+  - Configurable rake to Bitcoin lightning wallet
+- In-Game Fun
+  - Standard Hold'em poker experience
+    - Hand history
+    - Player stats
+    - Custom names, avatars, emotes
+    - Chat options
+
+## Development
+
+### ♦️ Getting Started
 
 ### Setup
 
@@ -20,7 +40,7 @@ Install [Homebrew](https://brew.sh/)
 ### Start
 `ruby main.rb`
 
-## Interactive Console
+### Interactive Console
 
 The .irbrc Interactive Ruby Run Commands is configured to recursively load all 
 src/ directory files
