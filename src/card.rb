@@ -34,9 +34,10 @@ class Card
   private
 
   IMAGE_DIR = './assets/images/cards'.freeze
+  IMAGE_PATHS = Dir.glob(File.join(IMAGE_DIR, '*'))
   def load_image
     pattern = /(^#{readable_rank}_of_#{suit}).*.png/i
-    image_paths = Dir.glob(File.join(IMAGE_DIR, '*')).select { |path| File.basename(path).match(pattern) }
+    image_paths = IMAGE_PATHS.select { |path| File.basename(path).match(pattern) }
     image_path = image_paths.first
     Gosu::Image.new(image_path)
   end
