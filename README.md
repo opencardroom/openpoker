@@ -2,24 +2,6 @@
 
 Open source poker app for playing and hosting home games
 
-## ♦️ Features Goals
-
-- Security:
-  - Open source RNG transparency
-- World Player Base:
-  - Decentralized poker server node network
-  - Host invites
-  - Table queues
-- Bitcoin, Lightning, Liquid
-  - Bitcoin lightning wallets
-  - Configurable rake to Bitcoin lightning wallet
-- In-Game Fun
-  - Standard Hold'em poker experience
-    - Hand history
-    - Player stats
-    - Custom names, avatars, emotes
-    - Chat options
-
 ## ♦️ Development
 
 ### Getting Started
@@ -51,7 +33,7 @@ src/ directory files
 
 ## ♥️ About
 
-- Playing card .svg graphics from [Google Code Archive vector-playing-cards SVG-cards-1.3.zip](https://code.google.com/archive/p/vector-playing-cards/downloads)
+- Playing card .svg graphics from [Google Code Archive vector-playing-cards SVG-cards-1.3](https://code.google.com/archive/p/vector-playing-cards/downloads)
 
 - Copyright (c) 2024 Open Cardroom and open source contributors: 
 https://github.com/opencardroom/openpoker/graphs/contributors
